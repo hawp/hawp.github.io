@@ -1,4 +1,4 @@
-# hawp - WordPress Hosting Standards
+# WordPress Hosting Standards
 
 ## Principle
 HAWP, short for High-availability WordPress, envisions an open community for WordPress hosting, with a better environment for data portability and a better definition for data ownership. 
